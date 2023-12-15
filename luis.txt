@@ -1,2 +1,4 @@
 Hola a todos!
 Este cambio es fundamental y debe suceder antes que otros desarrollos.
+
+Estoy desarrollando una nueva característica.
